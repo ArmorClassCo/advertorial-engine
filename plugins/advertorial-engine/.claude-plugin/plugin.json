@@ -1,0 +1,19 @@
+{
+  "name": "advertorial-engine",
+  "version": "0.1.0",
+  "author": {
+    "name": "ArmorClassCo"
+  },
+  "description": "Produce and diagnose proven-pattern direct-response advertorial and listicle landing pages, using a methodology reverse-engineered from a corpus of high-spend live pages. Four entry points: generate (brief -> finished copy doc + image specs + HTML preview, with graceful intake degradation), strategize (brief -> strategy declaration only, no body copy), critique (existing page -> archetype + Schwartz grid position + ranked failures, no rewrite), render (copy doc -> HTML preview).",
+  "keywords": [
+    "copywriting",
+    "direct-response",
+    "advertorial",
+    "listicle",
+    "landing-page",
+    "marketing"
+  ],
+  "homepage": "https://github.com/ArmorClassCo/advertorial-engine",
+  "repository": "https://github.com/ArmorClassCo/advertorial-engine.git",
+  "license": "MIT"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "advertorial-engine",
+  "version": "0.1.0",
+  "description": "Marketplace for the advertorial-engine plugin (generate, strategize, critique, render direct-response landing pages).",
+  "owner": {
+    "name": "ArmorClassCo"
+  },
+  "plugins": [
+    {
+      "name": "advertorial-engine",
+      "description": "Produce and diagnose direct-response advertorial and listicle landing pages with four commands (generate, strategize, critique, render) grounded in a corpus-extracted methodology.",
+      "version": "0.1.0",
+      "author": {
+        "name": "ArmorClassCo"
+      },
+      "source": "./plugins/advertorial-engine",
+      "category": "productivity"
+    }
+  ]
+}
